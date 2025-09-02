@@ -143,10 +143,3 @@ conda install -c plotly plotly-geo=1.0.0
 
 `plotly-geo` can be found on Github at https://github.com/plotly/plotly-geo.
 
-## Copyright and Licenses
-
-Code and documentation copyright 2019 Plotly, Inc.
-
-Code released under the [MIT license](https://github.com/plotly/plotly.py/blob/main/LICENSE.txt).
-
-Docs released under the [Creative Commons license](https://github.com/plotly/documentation/blob/source/LICENSE).
